@@ -1,0 +1,20 @@
+Argument Dimension = 6
+Argument space has 64 elements.
+Image Dimension = 6
+Image space has 64 elements.
+
+Writing Algebraic Normal Form to file: S6.anf
+[Columns = Image components]
+
+Writing Truth Table to file: S6.tt
+[Columns = Image components]
+
+Writing Walsh Spectrum to file: S6.wal
+
+Writing Linear Profile to file: S6.lp
+[To normalize divide by 4096]
+
+Writing Differential Profile to file: S6.dp
+[To normalize divide by 262144]
+
+Writing the polynomials in ANF to file: S6.pol
