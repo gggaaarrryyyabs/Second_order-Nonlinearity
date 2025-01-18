@@ -1,1 +1,0 @@
-Linearity distance: 112
